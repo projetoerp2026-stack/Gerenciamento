@@ -1,1 +1,16 @@
-Este repositório documenta o plano de implantação de ERP para uma empresa têxtil de 289 funcionários. O foco principal é a correção de falhas logísticas e financeiras, garantindo que toda saída de mercadoria seja rastreada e faturada via módulos SIGAFAT e SIGAEST.
+### 💰 Escopo de Custos
+Responsável por definir a viabilidade financeira da implantação do ERP.
+
+**Atividades:**
+- [x] **Lista de Recursos:** Mapeamento de infraestrutura (servidores/nuvem), licenças e pesoal necessário.
+- [x] **Estimativa de Custos:** Levantamento de gastos com software, hardware e horas de implementação.
+
+**Entregas Esperadas:**
+* Planilha de Orçamento detalhada.
+* Inventário de Recursos técnicos e humanos.
+
+---
+
+**Status:** ✅ Concluído
+**Última Atualização:** 2026-04-11
+**Responsável:** pedroveloso-max
