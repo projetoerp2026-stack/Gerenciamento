@@ -1,16 +1,11 @@
-### 💰 Escopo de Custos
-Responsável por definir a viabilidade financeira da implantação do ERP.
+⚠️ Gerenciamento de Riscos
+Identificação proativa de ameaças que possam comprometer o cronograma ou o orçamento do projeto.
 
-**Atividades:**
-- [x] **Lista de Recursos:** Mapeamento de infraestrutura (servidores/nuvem), licenças e pesoal necessário.
-- [x] **Estimativa de Custos:** Levantamento de gastos com software, hardware e horas de implementação.
+Atividades:
+Matriz de Riscos: Classificação de riscos por Probabilidade e Impacto (Matriz 3x3 ou 5x5).
+Plano de Mitigação: Definição de ações preventivas e planos de contingência para cada risco crítico.
 
-**Entregas Esperadas:**
-* Planilha de Orçamento detalhada.
-* Inventário de Recursos técnicos e humanos.
 
----
-
-**Status:** ✅ Concluído
-**Última Atualização:** 2026-04-11
-**Responsável:** pedroveloso-max
+Entregas Esperadas:
+Matriz de Riscos documentada.
+Plano de Resposta a Riscos.
